@@ -79,3 +79,4 @@ counterBtn.addEventListener("click", () => {
   likeCounts[activeMember] += 1;
   counterSpan.textContent = likeCounts[activeMember];
 });
+
