@@ -6,7 +6,8 @@ Proyek ini adalah tampilan web sederhana untuk BNCC, dibangun menggunakan HTML, 
 
 ## Visualisasi
 
-> 🚧 Belum ada screenshot/demo karena tampilan (`style.css`) dan interaktivitas (`script.js`) masih kosong dan belum dikembangkan. Bagian ini akan diperbarui begitu UI mulai dibangun.
+<img width="1901" height="1040" alt="image" src="https://github.com/user-attachments/assets/3c411ad4-1e45-45c0-9f89-77a40e7fdf88" />
+
 
 ## Tech Stack
 
